@@ -6,25 +6,25 @@ import {BsFillArchiveFill, BsFillGrid3X3GapFill, BsPeopleFill, BsFillBellFill}
 function Home() {
     const data = [
         {
-          name: 'Page A',
+          name: 'Sales A',
           uv: 4000,
           pv: 2400,
           amt: 2400,
         },
         {
-          name: 'Page B',
+          name: 'Sales B',
           uv: 3000,
           pv: 1398,
           amt: 2210,
         },
         {
-          name: 'Page C',
+          name: 'Sales C',
           uv: 2000,
           pv: 9800,
           amt: 2290,
         },
         {
-          name: 'Page D',
+          name: 'Sales D',
           uv: 2780,
           pv: 3908,
           amt: 2000,
@@ -36,8 +36,7 @@ function Home() {
    <main className='main-container'>
     <div className='main-title'>
         <h3>DASHBOARD</h3>
-        
-        
+      
     </div>
 
     <div className='main-cards'>
