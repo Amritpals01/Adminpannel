@@ -206,3 +206,13 @@ body {
   }
 }
 /*end css */
+
+.nav-link {
+  text-decoration: none;
+  color: black;
+  
+}
+
+.active-link h3 {
+  color: black; /* Change this to whatever color you want when active */
+}
