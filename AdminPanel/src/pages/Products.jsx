@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from 'react'
 import Header from '../Header'
-
 function Products() {
   const [ products , setProducts] = useState([]);
   

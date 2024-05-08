@@ -12,13 +12,12 @@ function App() {
   };
 
   return (
-  
+    
       <div className="grid-container">
         <Header openSidebar={openSidebar} />
         <Sidebar openSideBarToggle={openSideBarToggle} openSidebar={openSidebar} />
-      <Home />
+        <Home />
       </div>
-   
   );
 }
 
